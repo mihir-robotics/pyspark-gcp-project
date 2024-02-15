@@ -10,7 +10,7 @@ I made this to get acquainted with Dataproc and BigQuery services.
 
 ## Diagram:
 
-![Model](docs\diagram.png)
+![Model](https://github.com/mihir-robotics/pyspark-gcp-project/blob/49694a7564183b331363b096dcf398771afc18eb/docs/diagram.png)
 
 ## File Descriptions
 
