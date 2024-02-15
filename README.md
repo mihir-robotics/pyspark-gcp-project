@@ -8,6 +8,10 @@ Additional files include shell scripts containing basic CloudShell commands, SQL
 
 I made this to get acquainted with Dataproc and BigQuery services.
 
+## Diagram:
+
+![Model](docs\diagram.png)
+
 ## File Descriptions
 
 `job.py`: This is the main PySpark script that reads the CSV data, performs some transformations, and loads the data into a BigQuery table.
