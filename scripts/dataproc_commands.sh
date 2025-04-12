@@ -1,5 +1,5 @@
 # General Dataproc commands for Cloudshell:
-#1. Create Dataproc cluster
+#1. Create Dataproc cluster with standard machine type
 gcloud dataproc clusters create your-cluster-name \
     --bucket your-bucket \
     --region your-region \
